@@ -8,11 +8,11 @@ assignees: 'burdyga'
 ---
 
 **Brand / Icon name**
-Official name, e.g. Signal, Google Calendar
+<!-- Official name, e.g. Signal, Google Calendar -->
 
 
 **Official logo / brand assets**
-Link to brand guidelines, press kit, website or SVG/PNG source
+<!-- Link to brand guidelines, press kit, website or SVG/PNG source -->
 
 
 **Why do you need this icon?**
