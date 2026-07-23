@@ -6,7 +6,7 @@ Pick a matching style once, paste a live PNG URL, and keep the marks current whe
 
 **Live:** [footeri.co](https://footeri.co)  
 **Icon Picker:** [footeri.co/icon-picker.html](https://footeri.co/icon-picker.html)  
-**API docs:** [footeri.co/api.html](https://footeri.co/api.html)
+**API docs:** [api.footeri.co/](https://api.footeri.co/)
 
 ---
 
@@ -76,7 +76,7 @@ https://api.footeri.co/v1/icons/telegram.png?size=32&shape=circle&retina
 https://api.footeri.co/v1/icons/instagram.png?size=64&shape=round&color=black&border
 ```
 
-Interactive docs: [footeri.co/api.html](https://footeri.co/api.html)
+Interactive docs: [api.footeri.co](https://api.footeri.co/)
 
 ---
 
@@ -85,21 +85,8 @@ Interactive docs: [footeri.co/api.html](https://footeri.co/api.html)
 | Channel | Use for |
 |---------|---------|
 | **[Issues](../../issues)** | Bugs, missing brands, incorrect marks, API problems |
-| **[Discussions](../../discussions)** | Ideas, how-to questions, show & tell, Pro feedback |
+| **[Discussions](../../discussions)** | Ideas, how-to questions, show & tell |
 
-Please search existing Issues and Discussions before opening a new one.
-
-### Before you report a bug
-
-Include:
-
-- Brand id (e.g. `telegram`) and the full icon URL
-- Expected vs actual result (screenshot helps)
-- Where you use it (website / email / signature) and client if relevant
-
-### Feature requests
-
-One idea per Issue or Discussion. Say *why* you need it (footer / email / signature / integration).
 
 ---
 
@@ -115,5 +102,5 @@ Brand logos belong to their respective owners. Footerico provides styled PNG del
 |--|--|
 | Product | https://footeri.co |
 | About | https://footeri.co/about.html |
-| API docs | https://footeri.co/api.html |
+| API docs | https://api.footeri.co |
 | API base | https://api.footeri.co |
