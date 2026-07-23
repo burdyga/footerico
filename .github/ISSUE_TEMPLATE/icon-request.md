@@ -2,8 +2,8 @@
 name: Icon Request
 about: Request a new brand icon for the Footerico catalog
 title: "[icon]"
-labels: ''
-assignees: ''
+labels: 'icon request'
+assignees: 'burdyga'
 
 ---
 
