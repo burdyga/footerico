@@ -6,7 +6,7 @@ Pick a matching style once, paste a live PNG URL, and keep the marks current whe
 
 **Live:** [footeri.co](https://footeri.co)  
 **Icon Picker:** [footeri.co/icon-picker.html](https://footeri.co/icon-picker.html)  
-**API docs:** [api.footeri.co/](https://api.footeri.co/)
+**API docs:** [api.footeri.co/](https://api.footeri.co)
 
 ---
 
@@ -76,7 +76,7 @@ https://api.footeri.co/v1/icons/telegram.png?size=32&shape=circle&retina
 https://api.footeri.co/v1/icons/instagram.png?size=64&shape=round&color=black&border
 ```
 
-Interactive docs: [api.footeri.co](https://api.footeri.co/)
+Interactive docs: [api.footeri.co](https://api.footeri.co)
 
 ---
 
