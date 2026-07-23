@@ -6,7 +6,7 @@ Pick a matching style once, paste a live PNG URL, and keep the marks current whe
 
 **Live:** [footeri.co](https://footeri.co)  
 **Icon Picker:** [footeri.co/icon-picker.html](https://footeri.co/icon-picker.html)  
-**API docs:** [api.footeri.co/](https://api.footeri.co)
+**API docs:** [api.footeri.co](https://api.footeri.co/)
 
 ---
 
