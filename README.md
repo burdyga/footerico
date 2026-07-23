@@ -2,7 +2,7 @@
 
 Hand-tuned brand logos for website footers, emails, and signatures.
 
-Pick a matching style once, paste a live PNG URL, and keep the marks current when brands rebrand—without redeploying local files. No API key.
+Pick a matching style once, paste a live PNG URL, and keep the icons current when brands rebrand—without redeploying local files. No API key.
 
 **Live:** [footeri.co](https://footeri.co)  
 **Icon Picker:** [footeri.co/icon-picker.html](https://footeri.co/icon-picker.html)  
@@ -12,7 +12,7 @@ Pick a matching style once, paste a live PNG URL, and keep the marks current whe
 
 ## What it does
 
-Footerico turns curated SVG brand marks into styled PNGs:
+Footerico turns curated SVG brand logos into styled PNG icons:
 
 - ~90 brands (social networks, messengers, files, and more)
 - 28 styles (flat, circle / rounded / square, border variants, brand colors and mono)
