@@ -97,8 +97,8 @@ Brand logos belong to their respective owners. Footerico provides styled PNG del
 ---
 
 ## Links
-
 | | |
+|---------|---------|
 | Product | https://footeri.co |
 | About | https://footeri.co/about.html |
 | API docs | https://api.footeri.co |
