@@ -92,7 +92,7 @@ Interactive docs: [api.footeri.co](https://api.footeri.co/)
 |---------|---------|
 | **[Icon request](../../issues/new?template=icon-request.md)** | Missing brands |
 | **[Report a bug](../../issues/new?template=bug_report.md)** | Incorrect marks, API problems |
-| **[Feature request](../../discussions/new?category=ideas)** | Ideas and Pro feedback |
+| **[Feature request](../../discussions/new?category=ideas)** | Ideas and feedback |
 | **[Discussions](../../discussions)** | How-to questions, show & tell |
 
 Please search existing Issues and Discussions before opening a new one.
