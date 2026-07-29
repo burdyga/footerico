@@ -1,33 +1,39 @@
 # Footerico
 
-Hand-tuned brand logos for website footers, emails, and signatures.
+One styled row of icons for website and email footers, plus signatures.
 
-Pick a matching style once, paste a live PNG URL, and keep the icons current when brands rebrand—without redeploying local files. No API key.
+Pick your brands, set a style, copy live PNG URLs. When a brand redraws its logo, the file behind the URL is updated, so your icons never show last year’s mark. No API key.
 
-**Live:** [footeri.co](https://footeri.co)  
-**Icon Picker:** [footeri.co/icon-picker.html](https://footeri.co/icon-picker.html)  
+**Live:** [footeri.co](https://footeri.co/)  
+**Icon Picker:** [footeri.co/icon-picker](https://footeri.co/icon-picker)  
 **API docs:** [api.footeri.co](https://api.footeri.co/)
 
 ---
 
 ## What it does
 
-Footerico turns curated SVG brand logos into styled PNG icons:
+Footerico turns hand-curated SVG brand marks into styled PNGs:
 
-- ~90 brands (social networks, messengers, files, and more)
-- 28 styles (flat, circle / rounded / square, border variants, brand colors and mono)
+- 90+ hand-tuned icons (social networks, messengers, files, and more)
+- 28 ready styles (flat, circle / rounded / square, border variants, brand colors and mono)
 - Optical centering and hand-made masks for monochrome
 
-**Who it’s for:** marketers, web and email developers, designers who need one consistent social row across site, mail, and signature.
+**Who it’s for**
+
+| Role | Why |
+|------|-----|
+| Marketers | Website footers, email footers, and signatures stay in sync after every rebrand |
+| Web developers | Live `<img>` URLs instead of a folder of PNGs in the repo |
+| Email developers | PNGs that still render where SVG fails |
+| Designers | One look for the whole row, optically balanced |
 
 ---
 
 ## Quick start
 
-1. Open the [Icon Picker](https://footeri.co/icon-picker.html)
-2. Choose brands and a style
-3. Copy live PNG URLs or embed snippets
-4. Paste into your website footer, email, or signature
+1. **Style your icons** — open the [Icon Picker](https://footeri.co/icon-picker), pick brands, then shape, color, and size
+2. **Copy the live URLs** — plain API links, or ready-made embed snippets
+3. **Paste them into your footer or signature** — the same URL keeps serving the current logo
 
 Example:
 
@@ -76,7 +82,7 @@ https://api.footeri.co/v1/icons/telegram.png?size=32&shape=circle&retina
 https://api.footeri.co/v1/icons/instagram.png?size=64&shape=round&color=black&border
 ```
 
-Docs: [api.footeri.co](https://api.footeri.co)
+Interactive docs: [api.footeri.co](https://api.footeri.co/)
 
 ---
 
@@ -84,21 +90,35 @@ Docs: [api.footeri.co](https://api.footeri.co)
 
 | Channel | Use for |
 |---------|---------|
-| **[Issues](../../issues)** | Bugs, missing brands, incorrect marks, API problems |
-| **[Discussions](../../discussions)** | Ideas, how-to questions, show & tell |
+| **[Icon request](../../issues/new?template=icon-request.md)** | Missing brands |
+| **[Report a bug](../../issues/new?template=bug_report.md)** | Incorrect marks, API problems |
+| **[Feature request](../../discussions/new?category=ideas)** | Ideas and Pro feedback |
+| **[Discussions](../../discussions)** | How-to questions, show & tell |
 
+Please search existing Issues and Discussions before opening a new one.
+
+### Before you report a bug
+
+Include:
+
+- Brand id (e.g. `telegram`) and the full icon URL
+- Expected vs actual result (screenshot helps)
+- Where you use it (website footer / email footer / signature) and client if relevant
 
 ---
 
 ## Brand & trademarks
 
-Brand logos belong to their respective owners. Footerico provides styled PNG delivery for practical use in footers and similar placements; it does not claim ownership of third-party marks.
+Brand logos belong to their respective owners. Footerico provides styled PNG delivery for practical use in footers and signatures; it does not claim ownership of third-party marks.
 
 ---
 
 ## Links
+
 | | |
-|---------|---------|
-| Product | https://footeri.co |
-| About | https://footeri.co/about.html |
-| API docs | https://api.footeri.co |
+|--|--|
+| Product | https://footeri.co/ |
+| Icon Picker | https://footeri.co/icon-picker |
+| About | https://footeri.co/about |
+| API docs | https://api.footeri.co/ |
+| API base | https://api.footeri.co |
