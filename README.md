@@ -14,7 +14,7 @@ Pick your brands, set a style, copy live PNG URLs. When a brand redraws its logo
 
 Footerico turns hand-curated SVG brand marks into styled PNGs:
 
-- 90+ hand-tuned icons (social networks, messengers, files, and more)
+- 75+ hand-tuned icons (social networks, messengers, files, and more)
 - 28 ready styles (flat, circle / rounded / square, border variants, brand colors and mono)
 - Optical centering and hand-made masks for monochrome
 
