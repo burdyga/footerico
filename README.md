@@ -65,7 +65,7 @@ Example:
 
 | Param | Default | Notes |
 |-------|---------|--------|
-| `size` | `64` | `16`–`128` (UI free steps: 16 / 32 / 64 / 128) |
+| `size` | `64` | `16`–`128` (UI steps: 16 / 32 / 64 / 128) |
 | `shape` | *(flat)* | `circle`, `round`, `square` |
 | `color` | `brand` | `brand`, `black`, `gray`, `white`, or hex `RRGGBB` (no `#`) |
 | `radius` | ~10 @ 64px | For `shape=round` only |
