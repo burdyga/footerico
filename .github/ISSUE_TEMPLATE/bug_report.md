@@ -1,38 +1,40 @@
 ---
 name: Bug Report
-about: Create a report to help us improve
+about: A wrong logo, a broken icon link, or something not working on footeri.co
 title: ''
 labels: 'bug'
 assignees: 'burdyga'
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**What's wrong**
+<!-- A short description, e.g. "Telegram icon is blurry in Outlook" or "Copy button does nothing in Icon Picker" -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Icon link**
+<!-- The full URL, e.g. https://api.footeri.co/icons/telegram.png?size=32&shape=circle -->
+<!-- If the bug is on the website, the page address instead -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Brand id**
+<!-- e.g. telegram, instagram, google-meet -->
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+**Expected vs actual**
+<!-- What you expected to see, and what you see instead. A screenshot helps a lot -->
+
+
+**Where you use it**
+- [ ] Website footer
+- [ ] Email footer / newsletter
+- [ ] Email signature
+- [ ] Icon Picker or another page on footeri.co
+- [ ] AI agent skill
+- [ ] Other: 
+
+**Email client or browser**
+<!-- e.g. Gmail web, Outlook for Windows, Apple Mail, Mailchimp editor, Chrome 130 -->
+
+
+**Anything else**
+<!-- Steps to reproduce, when it started, other context -->
